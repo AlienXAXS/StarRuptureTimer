@@ -1,6 +1,7 @@
 # Visual Studio build outputs
 bin/
 obj/
+build/
 *.user
 *.aps
 *.suo
@@ -14,9 +15,3 @@ obj/
 *.obj
 *.iobj
 *.ipdb
-
-# SDK source files — get these from AlienXAXS/StarRupture-Plugin-SDK
-../StarRupture SDK/
-../include/
-../Shared.props
-../ExamplePlugin/
